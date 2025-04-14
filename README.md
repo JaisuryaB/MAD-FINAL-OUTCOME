@@ -77,6 +77,9 @@ If you have any questions or feedback, feel free to reach out:
 - **Email:** 221501052@rajalakshmi.edu.in  
 - **GitHub:** (https://github.com/JaisuryaB)  
 
+  ## image
+  ![project 1](https://github.com/user-attachments/assets/f1df23eb-4484-4a32-b19f-130be14edee4)
+
 ---  
 
 Let me know if you'd like further customization!
