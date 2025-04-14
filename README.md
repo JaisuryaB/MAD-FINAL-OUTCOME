@@ -74,8 +74,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact  
 If you have any questions or feedback, feel free to reach out:  
-- **Email:** your.email@example.com  
-- **GitHub:** [yourusername](https://github.com/JaisuryaB)  
+- **Email:** 221501052@rajalakshmi.edu.in  
+- **GitHub:** (https://github.com/JaisuryaB)  
 
 ---  
 
